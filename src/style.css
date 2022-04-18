@@ -1,16 +1,18 @@
 /* styles go here */
-.wrapper  {
+.wrapper {
   max-width: 1240px;
   padding: 0 15px;
   margin: 0 auto;
 }
-.form-field{
+
+.form-field {
   display: block;
 }
-.form-field input{
+
+.form-field input {
   margin-bottom: 10px;
 }
 
-fieldset{
+fieldset {
   margin-bottom: 20px;
 }
